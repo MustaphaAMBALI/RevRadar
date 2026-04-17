@@ -92,4 +92,38 @@ name, month, revenue, target, and attainment percentage.
 
 Single page executive dashboard featuring:
 
-- **KPI Cards** — Total Revenue, Deals Won, Deals Lost, Overall​​​​​​​​​​​​​​​​
+- **KPI Cards** — Total Revenue, Deals Won, Deals Lost, Overall Quota Attainment
+- **Monthly Revenue Trend** — Line chart with min and max markers highlighted
+- **Revenue vs Target by Rep** — Clustered bar chart showing actual vs target per rep
+- **Regional Revenue Breakdown** — Donut chart showing each region's contribution
+- **Underperformer Tracker** — Table with conditional formatting showing rep status
+
+Dynamic region slicer filters all visuals simultaneously.
+
+---
+
+## Data Validation
+
+Before any analysis, all four tables passed full validation:
+
+- Row count verification
+- Null checks on all critical fields
+- Duplicate checks on primary and composite keys
+- Data range validation on deal values and sales cycle lengths
+
+---
+
+## Screenshots
+
+<img width="703" height="400" alt="Screenshot 2026-04-14 155429" src="https://github.com/user-attachments/assets/adbefada-8933-4ea6-8f61-a525792972a7" />
+
+<img width="1919" height="839" alt="Screenshot 2026-04-17 111405" src="https://github.com/user-attachments/assets/8c21e028-6157-44db-8f3a-12eff33df72f" />
+
+
+---
+
+## Author
+
+**Mustapha Ambali** — Data Analyst
+[LinkedIn](https://linkedin.com/in/ambalimustapha) |
+[Portfolio](https://datascienceportfol.io/ambalimustapha6)
